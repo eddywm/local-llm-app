@@ -1,4 +1,4 @@
-# 📱 Local LLM App (Proof of Concept)
+# 📱 Local LLM App (Experimental)
 
 Run large language models directly on your mobile device with zero internet connectivity required. This application demonstrates on-device AI inference for iOS and Android, enabling private, offline conversations powered by local LLM execution.
 
