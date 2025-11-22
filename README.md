@@ -2,6 +2,9 @@
 
 Run large language models directly on your mobile device with zero internet connectivity required. This application demonstrates on-device AI inference for iOS and Android, enabling private, offline conversations powered by local LLM execution.
 
+<img width="1908" height="1648" alt="Screenshot 2025-11-22 at 9 22 48 PM" src="https://github.com/user-attachments/assets/9fa92c0b-8f65-4a13-923c-b6a97ce7645b" />
+
+
 ## ✨ Features
 
 - 🔓 **Fully Offline Inference** – Execute LLM inference directly on device without any API calls or network dependency
